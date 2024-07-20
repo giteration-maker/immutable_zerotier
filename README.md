@@ -7,8 +7,10 @@ This is a repo for  the Zerotier installation script for immmutable Fedora distr
 <code>fc/$releasever</code> to always get the latest release.
 <br>
 <h3>Install the script from terminal: </h3> 
-<code>curl -sSL https://raw.githubusercontent.com/giteration-maker/immutable_zerotier/main/install.sh| bash</code>
+<code>curl -sSL https://raw.githubusercontent.com/giteration-maker/immutable_zerotier/main/install.sh | bash</code>
 <p>
+
+  
 <ul>
   <li>curl: Downloads the script</li>
   <li>sSL: Flags for curl (s: silent mode, S: show error if fails, L: follow redirects)</li>
