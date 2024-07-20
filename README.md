@@ -20,4 +20,4 @@ This is a repo for  the Zerotier installation script for immmutable Fedora distr
 <h4>Credits: </h4>
 
 [@hannut](https://gist.github.com/hannut)  - creator of the script <br>
-[@kaidelorenzo](https://gist.github.com/kaidelorenzo) - suggestion to latest release
+[@kaidelorenzo](https://gist.github.com/kaidelorenzo) - suggestion to change to latest release
